@@ -1,0 +1,40 @@
+.post {
+    width: 300px;
+    margin: auto;
+}
+
+.horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 0.5rem;
+}
+
+.vertical {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 0.5rem;
+    
+}
+
+div.vertical {
+    margin-right: auto;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.html5 {
+    margin-top: 15px;
+}
+
+.settings {
+    font-size: 22.5px;
+    margin-block: auto;
+}
+
+.bookmarks {
+    margin-left: auto;
+}
